@@ -3,7 +3,8 @@
 }
 
 img {
-    width: 200px;
+    width: 650px;
+    margin: 0 auto;
 }
 
 div p {
@@ -15,6 +16,8 @@ div p {
 .bg {
     background-color: bisque;
     padding: 10px;
+    width: 650px;
+    margin: 0 auto;
 }
 
 #show {
